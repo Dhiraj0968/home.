@@ -1,1 +1,1 @@
-# paramgurukul.github.io
+# github.io/website
